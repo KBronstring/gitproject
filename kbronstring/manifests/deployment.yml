@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: hier stond een error
+        app: examapp
     spec:
       containers:
         - name: examapp 
