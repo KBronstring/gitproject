@@ -18,7 +18,17 @@ Take a look to the provided repository and its branching strategy. If you think 
 Add below a list of the branches that you think that are necessary including a small summary:
 
 ```
+Popular branching model.
+Main branches
+    master
+    develop
 
+Supporting branches
+    Feature branches
+    Release branches
+    Hotfix branches
+
+I would add a backup one as well
 ```
 
 ## Question 2 Adding script steps 25%
